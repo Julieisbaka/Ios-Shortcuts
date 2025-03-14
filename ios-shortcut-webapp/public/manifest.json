@@ -1,0 +1,21 @@
+{
+  "name": "iOS Shortcut Web App",
+  "short_name": "ShortcutApp",
+  "description": "A web application for creating and managing iOS shortcuts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
